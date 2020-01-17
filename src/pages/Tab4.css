@@ -1,0 +1,18 @@
+.messageCardHeader {
+    color: black;
+    margin: 0;
+    padding: 0 0 0 20px;
+    text-transform: uppercase;
+}
+
+.messageCardHeader h5 {
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.messageCardContent {
+    font-size: 14px;
+    padding-top: 10px;
+    margin-top: 0;
+    color: black;
+}
